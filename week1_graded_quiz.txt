@@ -1,0 +1,19 @@
+1.Question 1
+How does the quantum cascade laser allow operation at long wavelengths?
+Ans:Intersubband transitions in layered structures
+2.Question 2
+Why is it hard to generate short wavelengths from quantum cascade lasers?
+Ans:Losses of carriers due to thermionic emission
+3.Question 3
+Ans:1/E
+4.Question 4
+What is the advantage of a quantum dot laser?
+Ans:All the above(They have higher gain than quantum well or bulk lasers,
+                  They have a lower threshold than quantum well or bulk lasers.
+                  Enable lasing in materials systems where it is not possible with other means)
+
+
+
+
+
+
