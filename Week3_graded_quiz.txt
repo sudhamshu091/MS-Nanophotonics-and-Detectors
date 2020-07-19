@@ -1,0 +1,20 @@
+1.Question 1
+Use the datasheet provided here for the silicon photodiode to answer questions 1-3.
+
+FDS100-SpecSheet.pdf
+PDF File
+What is the minimum optical power required to ensure a signal-to-noise ratio of 80 dB at 20 Hz (bandwidth) at 900 nm? Your answer should be in \muμW.
+Ans:5.366   (explaination:NEP(900nm)*sqrt(20)*e8=5.366*e-6)
+2.Question 2
+What is the minimum optical power required to ensure a signal-to-noise ratio of 80 dB at 20 Hz at 450 nm? Your answer should be in \muμW.
+Ans:10.732  (explaination:2*NEP(900nm)sqrt(20)*e8=10.732*e-6)
+3.Question 3
+Calculate the detectivity of the silicon photodiode at 900 nm. Your answer should be in units of 10^{12}10 
+12
+  W^{-1}W 
+−1
+ .
+ Ans:83.3333  (explaination:1/NEP=1/(1.2*e-14)=83.33*e12 W-1)
+ 4.Question 4
+What signal-to-noise ratio of the system corresponds to the noise-equivalent power?
+Ans:1
